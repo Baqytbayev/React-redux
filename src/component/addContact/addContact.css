@@ -1,0 +1,22 @@
+.imgStyle{
+    width: 150px;
+    height: 150px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input{
+    width: 500px;
+    height: 50px;
+    margin: 15px 0;
+    border-radius: 15px;
+    text-align: center;
+    background-color: bisque;
+}
+.button{
+    padding: 10px 15px;
+    background-color: brown;
+    margin: 5px;
+}

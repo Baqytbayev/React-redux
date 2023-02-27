@@ -1,0 +1,23 @@
+.header{
+    padding: 5px;
+    height: 60px;
+    background: aqua;
+    text-decoration: none;
+}
+.navstyle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    margin-right: 15px;
+}
+.linkStyle{
+    font-family: BlinkMacSystemFont;
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: cornflowerblue;
+}
+.linkStyle:hover{
+    color: red;
+}

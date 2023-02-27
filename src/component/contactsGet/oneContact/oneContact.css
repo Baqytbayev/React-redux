@@ -1,0 +1,11 @@
+.imgPhoto{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+.info{
+    diplay: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

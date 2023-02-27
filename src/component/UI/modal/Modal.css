@@ -1,0 +1,13 @@
+.onePhoto{
+    width: 200px;
+    height: 200px;
+    border-radius: 14px;
+}
+.infoOne{
+    margin: 50px 10px;
+    display: flex;
+    flex-direction: row;
+}
+.infoText{
+    margin: 0 15px;
+}
